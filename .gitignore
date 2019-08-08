@@ -16,3 +16,4 @@ Project Outputs for *
 *.html
 mainboard/
 Footprint
+Lib/ExportFiles
